@@ -1,0 +1,11 @@
+10
+lingnan   xuesan
+yifu   shensi
+mingde   xuewu
+xuesan   zhishan
+songtao   xueyi
+shensi   yixian
+xuewu   lingnan
+zhishan   mingde
+xueyi   songtao
+yifu   xuewu

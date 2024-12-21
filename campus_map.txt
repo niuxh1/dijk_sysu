@@ -1,0 +1,17 @@
+10 15
+shensi mingde zhishan lingnan xueyi xuewu xuesan yixian songtao yifu
+xuesan yifu 5
+yixian zhishan 1
+shensi xuewu 3
+mingde yixian 8
+xueyi xuesan 6
+lingnan songtao 2
+shensi mingde 9
+zhishan lingnan 7
+xueyi yifu 4
+lingnan xuewu 10
+shensi songtao 1
+mingde xuesan 3
+xueyi yixian 8
+lingnan yifu 5
+zhishan songtao 2

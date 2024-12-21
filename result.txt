@@ -1,0 +1,30 @@
+numth: 1
+lingnan->xuesan shortest path is: lingnan->yifu->xuesan
+lingnan->xuesan shortest length is: 10
+numth: 2
+yifu->shensi shortest path is: yifu->lingnan->songtao->shensi
+yifu->shensi shortest length is: 8
+numth: 3
+mingde->xuewu shortest path is: mingde->shensi->xuewu
+mingde->xuewu shortest length is: 12
+numth: 4
+xuesan->zhishan shortest path is: xuesan->mingde->yixian->zhishan
+xuesan->zhishan shortest length is: 12
+numth: 5
+songtao->xueyi shortest path is: songtao->zhishan->yixian->xueyi
+songtao->xueyi shortest length is: 11
+numth: 6
+shensi->yixian shortest path is: shensi->songtao->zhishan->yixian
+shensi->yixian shortest length is: 4
+numth: 7
+xuewu->lingnan shortest path is: xuewu->shensi->songtao->lingnan
+xuewu->lingnan shortest length is: 6
+numth: 8
+zhishan->mingde shortest path is: zhishan->yixian->mingde
+zhishan->mingde shortest length is: 9
+numth: 9
+xueyi->songtao shortest path is: xueyi->yixian->zhishan->songtao
+xueyi->songtao shortest length is: 11
+numth: 10
+yifu->xuewu shortest path is: yifu->lingnan->songtao->shensi->xuewu
+yifu->xuewu shortest length is: 11
